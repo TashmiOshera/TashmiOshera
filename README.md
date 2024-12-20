@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TashmiOshera  
-- 👀 I’m interested in software engineering, web development, and mobile application development.  
+- 👀 I’m interested in web development, and mobile application development.  
 - 🌱 I’m currently learning advanced web and mobile development techniques, including the MERN stack and Kotlin for Android.  
 - 💞️ I’m looking to collaborate on projects involving innovative web and mobile applications.  
-- 📫 How to reach me: You can email me at osheratashmi@gmail.com or connect with me on LinkedIn.  
+- 📫 How to reach me: You can email me at osheratashmi@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/tashmi-oshera-868490330/.  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I enjoy combining creativity with technology, and I was also a school Western Band leader!  
