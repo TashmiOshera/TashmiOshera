@@ -66,14 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TashmiOshera&hide_border=true&theme=github-dark" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashmiOshera&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TashmiOshera&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%" />
-</p>
-
 ---
 
 ## 📌 Pinned Projects
