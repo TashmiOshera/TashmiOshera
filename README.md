@@ -1,42 +1,151 @@
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/TashmiOshera">Tashmi Oshera</a></h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Mobile App Developer from 🇱🇰 Sri Lanka</h3>
 
-**Complete updated Featured Projects + Snake section ready to copy-paste:**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Developer;Android+Developer+(Kotlin);Building+Scalable+Web+%26+Mobile+Applications" alt="Typing SVG" />
+</p>
 
-```markdown
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TashmiOshera&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/TashmiOshera?label=Followers&style=social" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TashmiOshera&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TashmiOshera&hide_border=true&theme=radical&bg_color=0d1117" width="48%" />
-</div>
+<img align="right" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
-## 🐍 Snake Game
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TashmiOshera/TashmiOshera/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+## 🚀 About Me
 
-## 🔥 Featured Projects
+I am a **Full Stack Developer and Mobile App Developer** passionate about creating scalable and user-friendly applications.
 
-<div align="center">
+💡 I enjoy transforming **complex problems into simple and efficient solutions** through clean code and modern technologies.
 
-### 🛒 **E-Commerce Dashboard**
-[![E-Commerce](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/)
-> Full-stack e-commerce admin panel with real-time analytics and order management.
+- 🔭 Currently working on **Full Stack MERN applications**
+- 🌱 Learning **Advanced React, Microservices Architecture, and Cloud Development**
+- 📱 Building **Android applications using Kotlin**
+- 🤝 Open to **collaboration on innovative web & mobile projects**
+- 🎯 Goal: Become a **high-impact software engineer building scalable products**
 
-**Tech Stack**: React • Node.js • MongoDB • Tailwind
+---
 
-### 📱 **TaskFlow Mobile App** 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/)
-> Cross-platform task manager with offline sync and push notifications.
+# 🛠️ Tech Stack
 
-**Tech Stack**: Kotlin • Firebase • Room DB
+### 🌐 Frontend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+</p>
 
-### 🌐 **Portfolio Website**
-[![MERN](https://img.shields.io/badge/MERN-00D8FF?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/)
-> Modern portfolio with CMS and deployment automation.
+### ⚙️ Backend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
 
-**Tech Stack**: MERN • Tailwind • Vercel
+### 📱 Mobile Development
+<p>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+</p>
 
-</div>
+### 🔧 Tools & Technologies
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
-**📌** [→ All Projects](https://github.com/TashmiOshera?tab=repositories)
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TashmiOshera&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TashmiOshera&hide_border=true&theme=radical&bg_color=0d1117" width="48%" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+### 🛒 Microservices E-Commerce Platform
+**Description**
+
+A scalable **microservices-based e-commerce backend** developed using modern DevOps and cloud architecture principles.
+
+**Key Features**
+- Order Management Service
+- RESTful API architecture
+- Microservices communication
+- Scalable backend architecture
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `Docker` `Microservices`
+
+🔗 Repository:  
+https://github.com/TashmiOshera
+
+---
+
+### 🤖 AI Based Service Recommendation System
+**Description**
+
+An intelligent platform that helps users **find the best service providers using Natural Language Processing and recommendation algorithms.**
+
+**Key Features**
+
+- Natural language service search
+- AI based provider recommendations
+- Intent classification
+- User feedback based ranking
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Machine Learning`
+
+---
+
+### 📱 Android Mobile Application
+**Description**
+
+A native Android mobile application designed to deliver smooth and intuitive user experiences.
+
+**Key Features**
+
+- Modern UI design
+- Kotlin based architecture
+- Optimized performance
+
+**Tech Stack**
+
+`Kotlin` `Android Studio` `REST APIs`
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:osheratashmi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tashmi-oshera-868490330/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TashmiOshera">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>💻 Passionate about building impactful software through continuous learning and innovation</i>
+</p>
