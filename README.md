@@ -67,64 +67,7 @@ I am a **Full Stack Developer and Mobile App Developer** passionate about creati
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TashmiOshera&hide_border=true&theme=radical&bg_color=0d1117" width="48%" />
 </p>
 
----
 
-# 🔥 Featured Projects
-
-### 🛒 Microservices E-Commerce Platform
-**Description**
-
-A scalable **microservices-based e-commerce backend** developed using modern DevOps and cloud architecture principles.
-
-**Key Features**
-- Order Management Service
-- RESTful API architecture
-- Microservices communication
-- Scalable backend architecture
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MongoDB` `Docker` `Microservices`
-
-🔗 Repository:  
-https://github.com/TashmiOshera
-
----
-
-### 🤖 AI Based Service Recommendation System
-**Description**
-
-An intelligent platform that helps users **find the best service providers using Natural Language Processing and recommendation algorithms.**
-
-**Key Features**
-
-- Natural language service search
-- AI based provider recommendations
-- Intent classification
-- User feedback based ranking
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB` `Machine Learning`
-
----
-
-### 📱 Android Mobile Application
-**Description**
-
-A native Android mobile application designed to deliver smooth and intuitive user experiences.
-
-**Key Features**
-
-- Modern UI design
-- Kotlin based architecture
-- Optimized performance
-
-**Tech Stack**
-
-`Kotlin` `Android Studio` `REST APIs`
-
----
 
 # 📫 Connect With Me
 
