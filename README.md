@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/TashmiOshera">Tashmi Oshera</a></h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Mobile App Developer from 🇱🇰 Sri Lanka</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Mobile App Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Developer;Android+Developer+(Kotlin);Building+Scalable+Web+%26+Mobile+Applications" alt="Typing SVG" />
